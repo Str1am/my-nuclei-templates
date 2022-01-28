@@ -10,7 +10,7 @@ https://github.com/projectdiscovery/nuclei
 ![image](https://user-images.githubusercontent.com/48739932/150737828-e759d340-788c-4311-80e4-39aa2a1cb385.png)
 
 
-里面绝大部分poc都经过测试，可以直接使用
+大部分poc已通过测试，主要以检测为主，不涉及攻击行为。
 
 # 免责声明
 
